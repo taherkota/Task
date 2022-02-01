@@ -1,0 +1,49 @@
+.Card_wrapper{
+    width: 20%;
+    background-color: white;
+    overflow:auto;
+    border-radius: 25px;
+    padding: 14px;
+    margin: 5%;
+    float: left;
+}
+.Image{
+    width: 100%;
+    border-radius: 16px;
+}
+.Title{
+    line-height: 24px;
+    font-size: 20px;
+    margin: 8px 0;
+}
+.Time{
+    font-size: 14px;
+    font-weight: 300;
+}
+.Content{
+    margin: 5px 0;
+}
+.News_Button{
+    padding: 10px 22px;
+    color: white;
+    background: #35858B;
+    border: 0;
+    border-radius: 10px;
+    float: right;
+    margin: 12px 0 6px;
+    font-weight: 700;
+}
+.News_Button:hover{
+    background-color: white;
+    border: 2px solid #35858B;
+    color: #35858B;
+}
+.Source{
+    margin: 5px 0;
+}
+.Author{
+    font-weight: 500;
+}
+.Author_name{
+    font-weight: 400;
+}
